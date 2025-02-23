@@ -5,7 +5,7 @@ Swiggy 2.0 is a personal project that replicates the popular food delivery appli
 
 ## Live Demo
 
-Check out the live version of the website here: [Golf Website]([https://golf-website-delta.vercel.app](https://67b5ecb395f3690d3d2ce37d--majestic-melomakarona-cc64ca.netlify.app/))
+Check out the live version of the website here: [Swiggy]([https://golf-website-delta.vercel.app](https://67b5ecb395f3690d3d2ce37d--majestic-melomakarona-cc64ca.netlify.app/))
 
 
 <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Swiggy_logo.svg" alt="Swiggy Image" width="600">
