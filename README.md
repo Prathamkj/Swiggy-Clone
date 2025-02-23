@@ -2,12 +2,6 @@
 
 Swiggy 2.0 is a personal project that replicates the popular food delivery application Swiggy. This web app is built using React, Parcel as the bundler, Tailwind CSS for styling, Redux Toolkit for state management, and Jest for testing. It incorporates various advanced React concepts and features to provide an interactive and user-friendly experience.
 
-
-## Live Demo
-
-Check out the live version of the website here: [Swiggy]([https://golf-website-delta.vercel.app](https://67b5ecb395f3690d3d2ce37d--majestic-melomakarona-cc64ca.netlify.app/))
-
-
 <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Swiggy_logo.svg" alt="Swiggy Image" width="600">
 
 
